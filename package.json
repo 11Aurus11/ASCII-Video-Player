@@ -1,25 +1,28 @@
 {
-    "name": "bad-apple-nodejs",
+    "name": "ascii-conversion",
     "version": "1.0.0",
     "type": "module",
-    "description": "Play Bad Apple In Node.Js",
+    "description": "CMD BAD-APPLE",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Reyansh-Khobragade/bad-apple-nodejs.git"
+        "url": "git+https://github.com/11Aurus11/ASCII-Video-Player"
     },
     "keywords": [
         "bad-apple",
         "bad apple",
         "NodeJs",
         "Node.Js",
-        "Bad Apple In NodeJs"
+        "Bad Apple In NodeJs",
+        "ASCII",
+        "ascii",
+        "Conversion"
     ],
-    "author": "reyansh-khobragade",
-    "license": "SEE LICENCE FILE.",
+    "author": "11Aurus11",
+    "license": "",
     "dependencies": {
         "ffmpeg": "^0.0.4",
         "fluent-ffmpeg": "^2.1.3",
@@ -27,7 +30,7 @@
     },
     "devDependencies": {},
     "bugs": {
-        "url": "https://github.com/Reyansh-Khobragade/bad-apple-nodejs/issues"
+        "url": "https://github.com/11Aurus11/ASCII-Video-Player"
     },
-    "homepage": "https://github.com/Reyansh-Khobragade/bad-apple-nodejs#readme"
+    "homepage": "https://github.com/11Aurus11/ASCII-Video-Player#readme"
 }
