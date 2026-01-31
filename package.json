@@ -22,7 +22,10 @@
         "Conversion"
     ],
     "author": "11Aurus11",
-    "license": "",
+    "license": "MIT",
+    "engines": {
+      "node": ">=18.0.0"
+    },
     "dependencies": {
         "ffmpeg": "^0.0.4",
         "fluent-ffmpeg": "^2.1.3",
