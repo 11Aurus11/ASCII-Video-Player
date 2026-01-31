@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "type": "module",
     "description": "CMD BAD-APPLE",
-    "main": "index.js",
+    "main": "main.js",
     "scripts": {
-        "start": "node index.js"
+        "start": "node main.js"
     },
     "repository": {
         "type": "git",
