@@ -1,0 +1,33 @@
+{
+    "name": "bad-apple-nodejs",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Play Bad Apple In Node.Js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Reyansh-Khobragade/bad-apple-nodejs.git"
+    },
+    "keywords": [
+        "bad-apple",
+        "bad apple",
+        "NodeJs",
+        "Node.Js",
+        "Bad Apple In NodeJs"
+    ],
+    "author": "reyansh-khobragade",
+    "license": "SEE LICENCE FILE.",
+    "dependencies": {
+        "ffmpeg": "^0.0.4",
+        "fluent-ffmpeg": "^2.1.3",
+        "jimp": "^1.6.0"
+    },
+    "devDependencies": {},
+    "bugs": {
+        "url": "https://github.com/Reyansh-Khobragade/bad-apple-nodejs/issues"
+    },
+    "homepage": "https://github.com/Reyansh-Khobragade/bad-apple-nodejs#readme"
+}
