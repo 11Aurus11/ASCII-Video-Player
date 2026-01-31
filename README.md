@@ -8,8 +8,8 @@
 ## Быстрый старт
 
 1. Установите зависимости:
-    ├── fluent-ffmpeg@2.1.3
-    └── jimp@1.6.0
+     fluent-ffmpeg@2.1.3
+     jimp@1.6.0
 
 > **А так же установите на свой ПК ffmpeg:** winget install ffmpeg
 
